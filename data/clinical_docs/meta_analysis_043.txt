@@ -1,0 +1,40 @@
+META-ANALYSIS REPORT
+Document ID: MAR-0043
+Title: Systematic Review and Meta-Analysis of Atorvastatin for Hyperlipidemia
+
+OBJECTIVE
+To synthesize evidence from randomized controlled trials (RCTs) evaluating the efficacy and safety of Atorvastatin in patients with Hyperlipidemia.
+
+SEARCH STRATEGY
+Electronic databases (PubMed, Embase, Cochrane Library) were searched from inception to March 2024. 1348 records were screened, and 16 RCTs meeting inclusion criteria were included in the final analysis.
+
+INCLUDED STUDIES
+- Number of RCTs: 16
+- Total patients: 42624
+- Study duration range: 12 to 87 weeks
+- Phase II trials: 79%
+- Geographic coverage: 49 countries
+
+POOLED RESULTS
+Primary Outcome:
+- Pooled effect size (random-effects model): 0.63 (95% CI [0.3, 0.76])
+- p-value: <0.001
+- I² heterogeneity: 27% (substantial)
+- Number needed to treat (NNT): 13
+
+Safety Outcomes:
+- Risk of serious adverse events: OR 1.26 (95% CI [0.67, 1.27])
+- Treatment discontinuation: OR 1.11 (95% CI [0.93, 1.55])
+
+SUBGROUP ANALYSES
+- Age ≥65 years: Similar benefit (interaction p=0.64)
+- Severe disease at baseline: Greater benefit (effect size: 0.99)
+- Prior treatment failure: Maintained efficacy (effect size: 0.34)
+
+CONCLUSION
+This meta-analysis of 16 RCTs involving 42624 patients provides strong evidence supporting the efficacy of Atorvastatin for Hyperlipidemia. The safety profile is acceptable though ongoing surveillance is warranted.
+
+QUALITY ASSESSMENT
+- Risk of bias: Moderate (Cochrane RoB 2 tool)
+- GRADE certainty of evidence: High
+- Publication bias: Not detected (Egger test p=0.42)

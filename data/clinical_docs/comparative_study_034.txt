@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0034
+Study Title: Head-to-Head Comparison of Amlodipine vs Semaglutide for Chronic Kidney Disease
+
+BACKGROUND
+Both Amlodipine and Semaglutide are approved for the treatment of Chronic Kidney Disease. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 2694 patients with Chronic Kidney Disease were randomized 1:1 to Amlodipine or Semaglutide for 48 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 51 years
+- Mean BMI: 31.7 kg/m²
+- Mean disease duration: 8.1 years
+- Prior treatment failure: 59%
+- Concomitant medications: 75% on at least one
+
+PRIMARY RESULTS
+Amlodipine: Effect size 0.3 (95% CI [0.2, 0.4])
+Semaglutide: Effect size 0.76 (95% CI [0.66, 0.86])
+
+Between-group difference: 0.46 (p=<0.001)
+
+Semaglutide demonstrated superior efficacy compared to Amlodipine on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Amlodipine: 6.0%
+- Semaglutide: 8.5%
+
+Notable differences in adverse event profiles:
+- Amlodipine was associated with higher rates of dizziness (11.4% vs 2.9%)
+- Semaglutide was associated with higher rates of constipation (11.5% vs 1.5%)
+
+CONCLUSION
+In this head-to-head comparison, Semaglutide demonstrated statistically significant superiority over Amlodipine for the treatment of Chronic Kidney Disease. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

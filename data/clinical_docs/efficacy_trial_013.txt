@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0013
+Study Title: Phase III Randomized, Double-Blind, Placebo-Controlled Trial of Dapagliflozin for Chronic Kidney Disease
+
+STUDY OVERVIEW
+This was a phase iii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Dapagliflozin in patients with Chronic Kidney Disease. The study was conducted across 68 clinical sites in 6 countries.
+
+PATIENT POPULATION
+A total of 4470 patients were enrolled and randomized 1:1 to Dapagliflozin or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Chronic Kidney Disease. The mean age of participants was 65 years, with 42% female patients. 66% of patients were White, 14% Black or African American, and 11% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Dapagliflozin at a dose of 500mg once daily or matching placebo for 48 weeks. The primary endpoint was improvement in Chronic Kidney Disease composite score. Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Dapagliflozin did not significantly differ from placebo in the primary endpoint compared to placebo (p=0.2316, effect size=0.11, 95% CI [-0.03, 0.24]).
+
+The treatment group showed a mean change from baseline of -1.66 compared to -0.79 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Dapagliflozin group were:
+- insomnia: 2.8% (vs 1.2% placebo)
+- gastrointestinal discomfort: 4.7% (vs 2.8% placebo)
+- urinary tract infection: 4.6% (vs 3.0% placebo)
+
+Serious adverse events occurred in 4.8% of the Dapagliflozin group vs 2.0% of the placebo group. 1 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Dapagliflozin did not demonstrate statistically significant efficacy in the treatment of Chronic Kidney Disease compared to placebo. The safety profile of Dapagliflozin was consistent with prior studies, with no new safety signals identified. Based on these results, Dapagliflozin requires further investigation with modified endpoints or dosing for patients with Chronic Kidney Disease.
+
+REFERENCES
+1. Brown et al. (2020). Dapagliflozin in Chronic Kidney Disease: A systematic review. The Lancet. 388:546-1124.
+2. Anderson et al. (2022). Safety profile of Dapagliflozin: Pooled analysis. NEJM. 380:784-1173.

@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0025
+Study Title: Dose-Response Evaluation of Lisinopril in Hypertension
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Lisinopril for the treatment of Hypertension by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIa dose-ranging study. 221 patients with Hypertension were randomized to receive Lisinopril at doses of 10mg, 15mg, or 50mg daily, or placebo, for 16 weeks.
+
+PHARMACOKINETIC PROFILE
+Lisinopril demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 3.3 hours
+- Half-life: 21.1 hours
+- Bioavailability: 61%
+- Steady-state achieved by Day 11
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+10mg: Modest improvement over placebo (effect size: 0.15, p=0.05)
+15mg: Significant improvement (effect size: 0.62, p=0.0085) — RECOMMENDED DOSE
+50mg: Similar efficacy to 15mg but with increased adverse events (effect size: 0.54, p=0.0069)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 10mg: 17% of patients
+- 15mg: 34% of patients
+- 50mg: 52% of patients
+- Placebo: 17% of patients
+
+RECOMMENDATION
+The optimal dose of Lisinopril for Hypertension is 15mg twice daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with hepatic impairment (Child-Pugh B or C).

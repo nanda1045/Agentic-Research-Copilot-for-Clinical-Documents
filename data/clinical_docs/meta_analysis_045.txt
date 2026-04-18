@@ -1,0 +1,40 @@
+META-ANALYSIS REPORT
+Document ID: MAR-0045
+Title: Systematic Review and Meta-Analysis of Omeprazole for Heart Failure
+
+OBJECTIVE
+To synthesize evidence from randomized controlled trials (RCTs) evaluating the efficacy and safety of Omeprazole in patients with Heart Failure.
+
+SEARCH STRATEGY
+Electronic databases (PubMed, Embase, Cochrane Library) were searched from inception to March 2024. 632 records were screened, and 9 RCTs meeting inclusion criteria were included in the final analysis.
+
+INCLUDED STUDIES
+- Number of RCTs: 9
+- Total patients: 5503
+- Study duration range: 9 to 96 weeks
+- Phase III trials: 69%
+- Geographic coverage: 30 countries
+
+POOLED RESULTS
+Primary Outcome:
+- Pooled effect size (random-effects model): 0.36 (95% CI [0.27, 0.84])
+- p-value: <0.001
+- I² heterogeneity: 18% (moderate)
+- Number needed to treat (NNT): 11
+
+Safety Outcomes:
+- Risk of serious adverse events: OR 1.05 (95% CI [0.77, 1.52])
+- Treatment discontinuation: OR 1.06 (95% CI [0.97, 1.53])
+
+SUBGROUP ANALYSES
+- Age ≥65 years: Similar benefit (interaction p=0.21)
+- Severe disease at baseline: Greater benefit (effect size: 0.96)
+- Prior treatment failure: Maintained efficacy (effect size: 0.64)
+
+CONCLUSION
+This meta-analysis of 9 RCTs involving 5503 patients provides moderate evidence supporting the efficacy of Omeprazole for Heart Failure. The safety profile is acceptable though ongoing surveillance is warranted.
+
+QUALITY ASSESSMENT
+- Risk of bias: Moderate (Cochrane RoB 2 tool)
+- GRADE certainty of evidence: Moderate
+- Publication bias: Not detected (Egger test p=0.6)

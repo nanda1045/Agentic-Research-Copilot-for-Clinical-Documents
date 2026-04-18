@@ -1,0 +1,38 @@
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# FAISS index (regenerated from data)
+faiss_index/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# UV
+.python-version
+
+# Model cache
+.cache/
+*.pkl
+
+# Evaluation outputs
+eval_results/

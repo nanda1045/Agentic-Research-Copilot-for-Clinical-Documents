@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0032
+Study Title: Head-to-Head Comparison of Lisinopril vs Omeprazole for Hypertension
+
+BACKGROUND
+Both Lisinopril and Omeprazole are approved for the treatment of Hypertension. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 1508 patients with Hypertension were randomized 1:1 to Lisinopril or Omeprazole for 36 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 52 years
+- Mean BMI: 32.9 kg/m²
+- Mean disease duration: 13.4 years
+- Prior treatment failure: 43%
+- Concomitant medications: 73% on at least one
+
+PRIMARY RESULTS
+Lisinopril: Effect size 0.63 (95% CI [0.53, 0.73])
+Omeprazole: Effect size 0.3 (95% CI [0.2, 0.4])
+
+Between-group difference: 0.33 (p=<0.001)
+
+Lisinopril demonstrated superior efficacy compared to Omeprazole on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Lisinopril: 7.5%
+- Omeprazole: 5.5%
+
+Notable differences in adverse event profiles:
+- Lisinopril was associated with higher rates of hypoglycemia (7.6% vs 4.3%)
+- Omeprazole was associated with higher rates of rash (14.7% vs 2.2%)
+
+CONCLUSION
+In this head-to-head comparison, Lisinopril demonstrated statistically significant superiority over Omeprazole for the treatment of Hypertension. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0026
+Study Title: Dose-Response Evaluation of Atorvastatin in Hyperlipidemia
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Atorvastatin for the treatment of Hyperlipidemia by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIb dose-ranging study. 343 patients with Hyperlipidemia were randomized to receive Atorvastatin at doses of 50mg, 100mg, or 150mg daily, or placebo, for 12 weeks.
+
+PHARMACOKINETIC PROFILE
+Atorvastatin demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 2.7 hours
+- Half-life: 8.7 hours
+- Bioavailability: 89%
+- Steady-state achieved by Day 9
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+50mg: Modest improvement over placebo (effect size: 0.11, p=0.124)
+100mg: Significant improvement (effect size: 0.61, p=0.0083) — RECOMMENDED DOSE
+150mg: Similar efficacy to 100mg but with increased adverse events (effect size: 0.5, p=0.007)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 50mg: 25% of patients
+- 100mg: 24% of patients
+- 150mg: 50% of patients
+- Placebo: 10% of patients
+
+RECOMMENDATION
+The optimal dose of Atorvastatin for Hyperlipidemia is 100mg once daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with renal impairment (eGFR < 30 mL/min).

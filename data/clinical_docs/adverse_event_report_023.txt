@@ -1,0 +1,27 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0023
+Drug: Empagliflozin
+Reporting Period: Q1 2022
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Empagliflozin collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 8617 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - insomnia: 175 reports (2.03%), 7 serious
+  - headache: 405 reports (4.7%), 51 serious
+  - cough: 452 reports (5.25%), 65 serious
+  - weight gain: 432 reports (5.01%), 0 serious
+  - hypoglycemia: 346 reports (4.02%), 69 serious
+  - gastrointestinal discomfort: 246 reports (2.85%), 26 serious
+
+SIGNAL DETECTION
+A new safety signal was identified for hypoglycemia which exceeded the proportional reporting ratio (PRR) threshold of 2.0 (observed PRR: 3.92).
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Empagliflozin remains favorable based on current data. Continued monitoring is recommended.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 21-78 years (median: 54)
+- Sex: 49% Female, 49% Male, 4% Not reported
+- Geographic distribution: 53% North America, 15% Europe, 15% Asia-Pacific

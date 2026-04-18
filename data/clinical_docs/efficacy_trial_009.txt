@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0009
+Study Title: Phase IV Randomized, Double-Blind, Placebo-Controlled Trial of Tirzepatide for COPD
+
+STUDY OVERVIEW
+This was a phase iv, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Tirzepatide in patients with COPD. The study was conducted across 86 clinical sites in 18 countries.
+
+PATIENT POPULATION
+A total of 279 patients were enrolled and randomized 1:1 to Tirzepatide or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of COPD. The mean age of participants was 47 years, with 65% female patients. 79% of patients were White, 19% Black or African American, and 7% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Tirzepatide at a dose of 10mg once daily or matching placebo for 12 weeks. The primary endpoint was improvement in COPD composite score. Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Tirzepatide significantly improved the primary endpoint compared to placebo (p=0.0363, effect size=0.57, 95% CI [0.42, 0.7]).
+
+The treatment group showed a mean change from baseline of -0.56 compared to -0.78 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Tirzepatide group were:
+- headache: 10.9% (vs 6.5% placebo)
+- joint pain: 7.0% (vs 3.0% placebo)
+- urinary tract infection: 3.2% (vs 2.2% placebo)
+
+Serious adverse events occurred in 4.2% of the Tirzepatide group vs 3.5% of the placebo group. 1 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Tirzepatide demonstrated statistically significant efficacy in the treatment of COPD. The safety profile of Tirzepatide was consistent with prior studies, with no new safety signals identified. Based on these results, Tirzepatide represents a promising therapeutic option for patients with COPD.
+
+REFERENCES
+1. Williams et al. (2020). Tirzepatide in COPD: A systematic review. The Lancet. 405:818-1027.
+2. White et al. (2019). Safety profile of Tirzepatide: Pooled analysis. NEJM. 385:327-1051.

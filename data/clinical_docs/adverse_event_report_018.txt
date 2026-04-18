@@ -1,0 +1,26 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0018
+Drug: Atorvastatin
+Reporting Period: Q3 2022
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Atorvastatin collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 4618 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - fatigue: 284 reports (6.15%), 48 serious
+  - urinary tract infection: 363 reports (7.86%), 23 serious
+  - muscle pain: 108 reports (2.34%), 6 serious
+  - headache: 388 reports (8.4%), 61 serious
+  - joint pain: 151 reports (3.27%), 23 serious
+
+SIGNAL DETECTION
+A new safety signal was identified for muscle pain which exceeded the proportional reporting ratio (PRR) threshold of 2.0 (observed PRR: 2.65).
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Atorvastatin remains under review based on current data. Continued monitoring is recommended.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 29-87 years (median: 54)
+- Sex: 48% Female, 36% Male, 1% Not reported
+- Geographic distribution: 67% North America, 24% Europe, 7% Asia-Pacific

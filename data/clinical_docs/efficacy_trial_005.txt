@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0005
+Study Title: Phase II Randomized, Double-Blind, Placebo-Controlled Trial of Omeprazole for Heart Failure
+
+STUDY OVERVIEW
+This was a phase ii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Omeprazole in patients with Heart Failure. The study was conducted across 45 clinical sites in 13 countries.
+
+PATIENT POPULATION
+A total of 3259 patients were enrolled and randomized 1:1 to Omeprazole or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Heart Failure. The mean age of participants was 61 years, with 49% female patients. 81% of patients were White, 15% Black or African American, and 8% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Omeprazole at a dose of 100mg once daily or matching placebo for 48 weeks. The primary endpoint was reduction in heart failure hospitalization (HR: 0.65). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Omeprazole significantly improved the primary endpoint compared to placebo (p=0.0107, effect size=0.33, 95% CI [0.21, 0.47]).
+
+The treatment group showed a mean change from baseline of -1.23 compared to -0.56 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Omeprazole group were:
+- headache: 13.8% (vs 6.8% placebo)
+- upper respiratory infection: 8.7% (vs 4.0% placebo)
+- dizziness: 1.0% (vs 0.3% placebo)
+
+Serious adverse events occurred in 3.6% of the Omeprazole group vs 1.7% of the placebo group. 3 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Omeprazole demonstrated statistically significant efficacy in the treatment of Heart Failure. The safety profile of Omeprazole was consistent with prior studies, with no new safety signals identified. Based on these results, Omeprazole represents a promising therapeutic option for patients with Heart Failure.
+
+REFERENCES
+1. Brown et al. (2024). Omeprazole in Heart Failure: A systematic review. The Lancet. 381:789-1167.
+2. Anderson et al. (2019). Safety profile of Omeprazole: Pooled analysis. NEJM. 382:845-1086.

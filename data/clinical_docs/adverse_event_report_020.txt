@@ -1,0 +1,26 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0020
+Drug: Omeprazole
+Reporting Period: Q2 2023
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Omeprazole collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 7318 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - weight gain: 162 reports (2.21%), 27 serious
+  - insomnia: 166 reports (2.27%), 3 serious
+  - cough: 322 reports (4.4%), 12 serious
+  - rash: 495 reports (6.76%), 97 serious
+  - upper respiratory infection: 116 reports (1.59%), 20 serious
+
+SIGNAL DETECTION
+A new safety signal was identified for insomnia which exceeded the proportional reporting ratio (PRR) threshold of 2.0 (observed PRR: 2.68).
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Omeprazole remains favorable based on current data. Continued monitoring is recommended.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 18-83 years (median: 64)
+- Sex: 59% Female, 50% Male, 3% Not reported
+- Geographic distribution: 51% North America, 22% Europe, 9% Asia-Pacific

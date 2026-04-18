@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0010
+Study Title: Phase II Randomized, Double-Blind, Placebo-Controlled Trial of Canagliflozin for Major Depressive Disorder
+
+STUDY OVERVIEW
+This was a phase ii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Canagliflozin in patients with Major Depressive Disorder. The study was conducted across 37 clinical sites in 13 countries.
+
+PATIENT POPULATION
+A total of 3970 patients were enrolled and randomized 1:1 to Canagliflozin or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Major Depressive Disorder. The mean age of participants was 54 years, with 61% female patients. 61% of patients were White, 9% Black or African American, and 14% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Canagliflozin at a dose of 50mg twice daily or matching placebo for 36 weeks. The primary endpoint was improvement in Major Depressive Disorder composite score. Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Canagliflozin significantly improved the primary endpoint compared to placebo (p=0.0097, effect size=0.63, 95% CI [0.51, 0.71]).
+
+The treatment group showed a mean change from baseline of -1.17 compared to -0.29 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Canagliflozin group were:
+- weight gain: 14.2% (vs 6.4% placebo)
+- insomnia: 2.0% (vs 1.1% placebo)
+- muscle pain: 7.8% (vs 3.1% placebo)
+
+Serious adverse events occurred in 3.8% of the Canagliflozin group vs 0.5% of the placebo group. 1 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Canagliflozin demonstrated statistically significant efficacy in the treatment of Major Depressive Disorder. The safety profile of Canagliflozin was consistent with prior studies, with no new safety signals identified. Based on these results, Canagliflozin represents a promising therapeutic option for patients with Major Depressive Disorder.
+
+REFERENCES
+1. Williams et al. (2022). Canagliflozin in Major Depressive Disorder: A systematic review. The Lancet. 382:780-1084.
+2. Harris et al. (2021). Safety profile of Canagliflozin: Pooled analysis. NEJM. 391:968-1031.

@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0039
+Study Title: Head-to-Head Comparison of Tirzepatide vs Losartan for COPD
+
+BACKGROUND
+Both Tirzepatide and Losartan are approved for the treatment of COPD. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 1386 patients with COPD were randomized 1:1 to Tirzepatide or Losartan for 24 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 50 years
+- Mean BMI: 29.8 kg/m²
+- Mean disease duration: 12.1 years
+- Prior treatment failure: 52%
+- Concomitant medications: 77% on at least one
+
+PRIMARY RESULTS
+Tirzepatide: Effect size 0.52 (95% CI [0.42, 0.62])
+Losartan: Effect size 0.39 (95% CI [0.29, 0.49])
+
+Between-group difference: 0.13 (p==0.013)
+
+Tirzepatide demonstrated superior efficacy compared to Losartan on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Tirzepatide: 7.5%
+- Losartan: 11.5%
+
+Notable differences in adverse event profiles:
+- Tirzepatide was associated with higher rates of headache (12.3% vs 4.6%)
+- Losartan was associated with higher rates of weight gain (8.0% vs 3.6%)
+
+CONCLUSION
+In this head-to-head comparison, Tirzepatide demonstrated statistically significant superiority over Losartan for the treatment of COPD. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

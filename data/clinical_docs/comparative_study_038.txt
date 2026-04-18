@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0038
+Study Title: Head-to-Head Comparison of Empagliflozin vs Sitagliptin for Atrial Fibrillation
+
+BACKGROUND
+Both Empagliflozin and Sitagliptin are approved for the treatment of Atrial Fibrillation. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 1254 patients with Atrial Fibrillation were randomized 1:1 to Empagliflozin or Sitagliptin for 24 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 56 years
+- Mean BMI: 33.6 kg/m²
+- Mean disease duration: 3.9 years
+- Prior treatment failure: 28%
+- Concomitant medications: 74% on at least one
+
+PRIMARY RESULTS
+Empagliflozin: Effect size 0.63 (95% CI [0.53, 0.73])
+Sitagliptin: Effect size 0.24 (95% CI [0.14, 0.34])
+
+Between-group difference: 0.39 (p=<0.001)
+
+Empagliflozin demonstrated superior efficacy compared to Sitagliptin on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Empagliflozin: 5.3%
+- Sitagliptin: 4.6%
+
+Notable differences in adverse event profiles:
+- Empagliflozin was associated with higher rates of nausea (6.3% vs 2.4%)
+- Sitagliptin was associated with higher rates of upper respiratory infection (10.9% vs 1.1%)
+
+CONCLUSION
+In this head-to-head comparison, Empagliflozin demonstrated statistically significant superiority over Sitagliptin for the treatment of Atrial Fibrillation. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

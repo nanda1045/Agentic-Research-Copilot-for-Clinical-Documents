@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0007
+Study Title: Phase III Randomized, Double-Blind, Placebo-Controlled Trial of Semaglutide for Coronary Artery Disease
+
+STUDY OVERVIEW
+This was a phase iii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Semaglutide in patients with Coronary Artery Disease. The study was conducted across 20 clinical sites in 7 countries.
+
+PATIENT POPULATION
+A total of 2769 patients were enrolled and randomized 1:1 to Semaglutide or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Coronary Artery Disease. The mean age of participants was 46 years, with 53% female patients. 73% of patients were White, 18% Black or African American, and 14% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Semaglutide at a dose of 100mg twice daily or matching placebo for 12 weeks. The primary endpoint was improvement in Coronary Artery Disease composite score. Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Semaglutide significantly improved the primary endpoint compared to placebo (p=0.0206, effect size=0.73, 95% CI [0.59, 0.8]).
+
+The treatment group showed a mean change from baseline of -0.92 compared to -0.56 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Semaglutide group were:
+- upper respiratory infection: 14.2% (vs 6.5% placebo)
+- insomnia: 6.1% (vs 3.5% placebo)
+- fatigue: 4.8% (vs 2.0% placebo)
+
+Serious adverse events occurred in 2.3% of the Semaglutide group vs 3.1% of the placebo group. 0 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Semaglutide demonstrated statistically significant efficacy in the treatment of Coronary Artery Disease. The safety profile of Semaglutide was consistent with prior studies, with no new safety signals identified. Based on these results, Semaglutide represents a promising therapeutic option for patients with Coronary Artery Disease.
+
+REFERENCES
+1. Smith et al. (2022). Semaglutide in Coronary Artery Disease: A systematic review. The Lancet. 399:676-1025.
+2. Anderson et al. (2023). Safety profile of Semaglutide: Pooled analysis. NEJM. 376:618-1067.

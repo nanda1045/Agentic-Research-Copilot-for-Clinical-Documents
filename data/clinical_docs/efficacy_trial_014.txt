@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0014
+Study Title: Phase II Randomized, Double-Blind, Placebo-Controlled Trial of Semaglutide for Heart Failure
+
+STUDY OVERVIEW
+This was a phase ii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Semaglutide in patients with Heart Failure. The study was conducted across 58 clinical sites in 17 countries.
+
+PATIENT POPULATION
+A total of 3512 patients were enrolled and randomized 1:1 to Semaglutide or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Heart Failure. The mean age of participants was 59 years, with 64% female patients. 68% of patients were White, 20% Black or African American, and 11% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Semaglutide at a dose of 25mg once daily or matching placebo for 24 weeks. The primary endpoint was reduction in heart failure hospitalization (HR: 0.67). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Semaglutide did not significantly differ from placebo in the primary endpoint compared to placebo (p=0.4425, effect size=0.08, 95% CI [-0.02, 0.2]).
+
+The treatment group showed a mean change from baseline of -2.39 compared to 0.15 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Semaglutide group were:
+- cough: 5.4% (vs 2.1% placebo)
+- hypoglycemia: 3.9% (vs 1.3% placebo)
+- headache: 3.9% (vs 2.7% placebo)
+
+Serious adverse events occurred in 1.2% of the Semaglutide group vs 0.6% of the placebo group. 1 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Semaglutide did not demonstrate statistically significant efficacy in the treatment of Heart Failure compared to placebo. The safety profile of Semaglutide was consistent with prior studies, with no new safety signals identified. Based on these results, Semaglutide requires further investigation with modified endpoints or dosing for patients with Heart Failure.
+
+REFERENCES
+1. Johnson et al. (2019). Semaglutide in Heart Failure: A systematic review. The Lancet. 399:256-1061.
+2. Thomas et al. (2022). Safety profile of Semaglutide: Pooled analysis. NEJM. 391:217-1144.

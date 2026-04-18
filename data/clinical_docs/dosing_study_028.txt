@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0028
+Study Title: Dose-Response Evaluation of Omeprazole in Heart Failure
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Omeprazole for the treatment of Heart Failure by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIa dose-ranging study. 390 patients with Heart Failure were randomized to receive Omeprazole at doses of 2.5mg, 100mg, or 150mg daily, or placebo, for 16 weeks.
+
+PHARMACOKINETIC PROFILE
+Omeprazole demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 4.0 hours
+- Half-life: 18.9 hours
+- Bioavailability: 67%
+- Steady-state achieved by Day 4
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+2.5mg: Modest improvement over placebo (effect size: 0.25, p=0.12)
+100mg: Significant improvement (effect size: 0.43, p=0.0025) — RECOMMENDED DOSE
+150mg: Similar efficacy to 100mg but with increased adverse events (effect size: 0.47, p=0.0013)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 2.5mg: 20% of patients
+- 100mg: 21% of patients
+- 150mg: 44% of patients
+- Placebo: 15% of patients
+
+RECOMMENDATION
+The optimal dose of Omeprazole for Heart Failure is 100mg twice daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with hepatic impairment (Child-Pugh B or C).

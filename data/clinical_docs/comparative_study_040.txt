@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0040
+Study Title: Head-to-Head Comparison of Canagliflozin vs Valsartan for Major Depressive Disorder
+
+BACKGROUND
+Both Canagliflozin and Valsartan are approved for the treatment of Major Depressive Disorder. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 427 patients with Major Depressive Disorder were randomized 1:1 to Canagliflozin or Valsartan for 52 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 61 years
+- Mean BMI: 31.9 kg/m²
+- Mean disease duration: 8.4 years
+- Prior treatment failure: 48%
+- Concomitant medications: 44% on at least one
+
+PRIMARY RESULTS
+Canagliflozin: Effect size 0.22 (95% CI [0.12, 0.32])
+Valsartan: Effect size 0.69 (95% CI [0.59, 0.79])
+
+Between-group difference: 0.47 (p=<0.001)
+
+Valsartan demonstrated superior efficacy compared to Canagliflozin on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Canagliflozin: 11.1%
+- Valsartan: 5.9%
+
+Notable differences in adverse event profiles:
+- Canagliflozin was associated with higher rates of gastrointestinal discomfort (5.7% vs 2.1%)
+- Valsartan was associated with higher rates of elevated liver enzymes (12.1% vs 2.5%)
+
+CONCLUSION
+In this head-to-head comparison, Valsartan demonstrated statistically significant superiority over Canagliflozin for the treatment of Major Depressive Disorder. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

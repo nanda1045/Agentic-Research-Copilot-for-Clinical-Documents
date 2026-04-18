@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0046
+Study Title: Phase II Randomized, Double-Blind, Placebo-Controlled Trial of Semaglutide for Obesity
+
+STUDY OVERVIEW
+This was a phase ii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Semaglutide in patients with Obesity. The study was conducted across 54 clinical sites in 15 countries.
+
+PATIENT POPULATION
+A total of 3621 patients were enrolled and randomized 1:1 to Semaglutide or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Obesity. The mean age of participants was 48 years, with 47% female patients. 67% of patients were White, 13% Black or African American, and 7% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Semaglutide at a dose of 5mg once daily or matching placebo for 36 weeks. The primary endpoint was body weight reduction (8.2% from baseline). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Semaglutide significantly improved the primary endpoint compared to placebo (p=0.0387, effect size=0.39, 95% CI [0.29, 0.46]).
+
+The treatment group showed a mean change from baseline of -0.79 compared to -0.45 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Semaglutide group were:
+- fatigue: 9.7% (vs 6.6% placebo)
+- upper respiratory infection: 5.7% (vs 3.2% placebo)
+- peripheral edema: 3.5% (vs 1.3% placebo)
+
+Serious adverse events occurred in 1.4% of the Semaglutide group vs 1.4% of the placebo group. 1 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Semaglutide demonstrated statistically significant efficacy in the treatment of Obesity. The safety profile of Semaglutide was consistent with prior studies, with no new safety signals identified. Based on these results, Semaglutide represents a promising therapeutic option for patients with Obesity.
+
+REFERENCES
+1. Jones et al. (2020). Semaglutide in Obesity: A systematic review. The Lancet. 404:877-1167.
+2. Anderson et al. (2020). Safety profile of Semaglutide: Pooled analysis. NEJM. 394:743-1126.

@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0030
+Study Title: Dose-Response Evaluation of Semaglutide in Coronary Artery Disease
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Semaglutide for the treatment of Coronary Artery Disease by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIb dose-ranging study. 406 patients with Coronary Artery Disease were randomized to receive Semaglutide at doses of 20mg, 25mg, or 200mg daily, or placebo, for 24 weeks.
+
+PHARMACOKINETIC PROFILE
+Semaglutide demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 3.5 hours
+- Half-life: 8.0 hours
+- Bioavailability: 64%
+- Steady-state achieved by Day 10
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+20mg: Modest improvement over placebo (effect size: 0.12, p=0.088)
+25mg: Significant improvement (effect size: 0.51, p=0.0037) — RECOMMENDED DOSE
+200mg: Similar efficacy to 25mg but with increased adverse events (effect size: 0.57, p=0.0012)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 20mg: 25% of patients
+- 25mg: 32% of patients
+- 200mg: 43% of patients
+- Placebo: 10% of patients
+
+RECOMMENDATION
+The optimal dose of Semaglutide for Coronary Artery Disease is 25mg once daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with renal impairment (eGFR < 30 mL/min).

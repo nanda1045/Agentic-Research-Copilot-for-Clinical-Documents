@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0001
+Study Title: Phase II Randomized, Double-Blind, Placebo-Controlled Trial of Metformin for Type 2 Diabetes Mellitus
+
+STUDY OVERVIEW
+This was a phase ii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Metformin in patients with Type 2 Diabetes Mellitus. The study was conducted across 68 clinical sites in 12 countries.
+
+PATIENT POPULATION
+A total of 1112 patients were enrolled and randomized 1:1 to Metformin or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Type 2 Diabetes Mellitus. The mean age of participants was 68 years, with 43% female patients. 74% of patients were White, 17% Black or African American, and 9% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Metformin at a dose of 500mg once daily or matching placebo for 12 weeks. The primary endpoint was HbA1c reduction from baseline (primary: 1.4% vs placebo). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Metformin significantly reduced the primary endpoint compared to placebo (p=0.0097, effect size=0.67, 95% CI [0.54, 0.74]).
+
+The treatment group showed a mean change from baseline of -1.57 compared to -0.52 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Metformin group were:
+- urinary tract infection: 9.3% (vs 3.6% placebo)
+- upper respiratory infection: 7.4% (vs 4.5% placebo)
+- nausea: 5.8% (vs 2.0% placebo)
+
+Serious adverse events occurred in 2.5% of the Metformin group vs 1.8% of the placebo group. 2 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Metformin demonstrated statistically significant efficacy in the treatment of Type 2 Diabetes Mellitus. The safety profile of Metformin was consistent with prior studies, with no new safety signals identified. Based on these results, Metformin represents a promising therapeutic option for patients with Type 2 Diabetes Mellitus.
+
+REFERENCES
+1. Jones et al. (2021). Metformin in Type 2 Diabetes Mellitus: A systematic review. The Lancet. 405:144-1186.
+2. White et al. (2023). Safety profile of Metformin: Pooled analysis. NEJM. 373:487-1020.

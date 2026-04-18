@@ -1,0 +1,27 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0016
+Drug: Metformin
+Reporting Period: Q4 2023
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Metformin collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 9048 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - elevated liver enzymes: 313 reports (3.46%), 17 serious
+  - rash: 175 reports (1.93%), 15 serious
+  - cough: 435 reports (4.81%), 11 serious
+  - urinary tract infection: 152 reports (1.68%), 28 serious
+  - peripheral edema: 240 reports (2.65%), 15 serious
+  - joint pain: 394 reports (4.35%), 59 serious
+
+SIGNAL DETECTION
+No new safety signals were identified during this reporting period. All adverse event rates remain within expected ranges based on clinical trial data.
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Metformin remains favorable based on current data. Continued monitoring is recommended.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 25-76 years (median: 61)
+- Sex: 48% Female, 45% Male, 3% Not reported
+- Geographic distribution: 69% North America, 23% Europe, 13% Asia-Pacific

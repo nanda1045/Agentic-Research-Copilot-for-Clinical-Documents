@@ -1,0 +1,26 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0050
+Drug: Empagliflozin
+Reporting Period: Q1 2023
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Empagliflozin collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 6921 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - dizziness: 178 reports (2.57%), 8 serious
+  - constipation: 353 reports (5.1%), 67 serious
+  - insomnia: 57 reports (0.82%), 10 serious
+  - muscle pain: 353 reports (5.1%), 54 serious
+  - rash: 270 reports (3.9%), 23 serious
+
+SIGNAL DETECTION
+No new safety signals were identified during this reporting period. All adverse event rates remain within expected ranges based on clinical trial data.
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Empagliflozin remains favorable based on current data. Label updates may be warranted for specific populations.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 30-85 years (median: 56)
+- Sex: 47% Female, 39% Male, 2% Not reported
+- Geographic distribution: 52% North America, 24% Europe, 6% Asia-Pacific

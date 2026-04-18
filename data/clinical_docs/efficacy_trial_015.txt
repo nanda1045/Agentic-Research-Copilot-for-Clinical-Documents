@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0015
+Study Title: Phase III Randomized, Double-Blind, Placebo-Controlled Trial of Empagliflozin for Obesity
+
+STUDY OVERVIEW
+This was a phase iii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Empagliflozin in patients with Obesity. The study was conducted across 103 clinical sites in 12 countries.
+
+PATIENT POPULATION
+A total of 1985 patients were enrolled and randomized 1:1 to Empagliflozin or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Obesity. The mean age of participants was 67 years, with 43% female patients. 63% of patients were White, 19% Black or African American, and 9% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Empagliflozin at a dose of 500mg once daily or matching placebo for 48 weeks. The primary endpoint was body weight reduction (4.3% from baseline). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Empagliflozin did not significantly differ from placebo in the primary endpoint compared to placebo (p=0.1254, effect size=0.1, 95% CI [-0.03, 0.21]).
+
+The treatment group showed a mean change from baseline of -2.41 compared to -0.27 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Empagliflozin group were:
+- nausea: 7.2% (vs 4.1% placebo)
+- constipation: 7.4% (vs 2.4% placebo)
+- insomnia: 1.1% (vs 0.6% placebo)
+
+Serious adverse events occurred in 1.1% of the Empagliflozin group vs 2.0% of the placebo group. 3 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Empagliflozin did not demonstrate statistically significant efficacy in the treatment of Obesity compared to placebo. The safety profile of Empagliflozin was consistent with prior studies, with no new safety signals identified. Based on these results, Empagliflozin requires further investigation with modified endpoints or dosing for patients with Obesity.
+
+REFERENCES
+1. Smith et al. (2022). Empagliflozin in Obesity: A systematic review. The Lancet. 410:470-1162.
+2. White et al. (2024). Safety profile of Empagliflozin: Pooled analysis. NEJM. 374:545-1045.

@@ -1,0 +1,26 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0017
+Drug: Lisinopril
+Reporting Period: Q2 2023
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Lisinopril collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 666 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - dizziness: 398 reports (59.76%), 30 serious
+  - upper respiratory infection: 363 reports (54.5%), 60 serious
+  - peripheral edema: 340 reports (51.05%), 62 serious
+  - weight gain: 239 reports (35.89%), 1 serious
+  - diarrhea: 57 reports (8.56%), 4 serious
+
+SIGNAL DETECTION
+A new safety signal was identified for peripheral edema which exceeded the proportional reporting ratio (PRR) threshold of 2.0 (observed PRR: 3.69).
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Lisinopril remains favorable based on current data. No regulatory action is recommended at this time.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 26-81 years (median: 63)
+- Sex: 57% Female, 45% Male, 3% Not reported
+- Geographic distribution: 64% North America, 23% Europe, 9% Asia-Pacific

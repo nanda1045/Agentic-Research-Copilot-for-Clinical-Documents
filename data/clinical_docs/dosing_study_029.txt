@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0029
+Study Title: Dose-Response Evaluation of Dapagliflozin in Obesity
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Dapagliflozin for the treatment of Obesity by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIa dose-ranging study. 324 patients with Obesity were randomized to receive Dapagliflozin at doses of 15mg, 50mg, or 150mg daily, or placebo, for 12 weeks.
+
+PHARMACOKINETIC PROFILE
+Dapagliflozin demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 1.2 hours
+- Half-life: 21.4 hours
+- Bioavailability: 79%
+- Steady-state achieved by Day 13
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+15mg: Modest improvement over placebo (effect size: 0.15, p=0.141)
+50mg: Significant improvement (effect size: 0.44, p=0.0052) — RECOMMENDED DOSE
+150mg: Similar efficacy to 50mg but with increased adverse events (effect size: 0.46, p=0.0033)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 15mg: 15% of patients
+- 50mg: 34% of patients
+- 150mg: 44% of patients
+- Placebo: 20% of patients
+
+RECOMMENDATION
+The optimal dose of Dapagliflozin for Obesity is 50mg once daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with hepatic impairment (Child-Pugh B or C).

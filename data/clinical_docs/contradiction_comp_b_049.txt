@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0049
+Study Title: Head-to-Head Comparison of Metformin vs Sitagliptin for Type 2 Diabetes Mellitus
+
+BACKGROUND
+Both Metformin and Sitagliptin are approved for the treatment of Type 2 Diabetes Mellitus. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 514 patients with Type 2 Diabetes Mellitus were randomized 1:1 to Metformin or Sitagliptin for 24 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 58 years
+- Mean BMI: 25.9 kg/m²
+- Mean disease duration: 10.8 years
+- Prior treatment failure: 38%
+- Concomitant medications: 56% on at least one
+
+PRIMARY RESULTS
+Metformin: Effect size 0.4 (95% CI [0.3, 0.5])
+Sitagliptin: Effect size 0.76 (95% CI [0.66, 0.86])
+
+Between-group difference: 0.36 (p=<0.001)
+
+Sitagliptin demonstrated superior efficacy compared to Metformin on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Metformin: 9.5%
+- Sitagliptin: 8.9%
+
+Notable differences in adverse event profiles:
+- Metformin was associated with higher rates of gastrointestinal discomfort (8.3% vs 3.3%)
+- Sitagliptin was associated with higher rates of gastrointestinal discomfort (14.2% vs 2.2%)
+
+CONCLUSION
+In this head-to-head comparison, Sitagliptin demonstrated statistically significant superiority over Metformin for the treatment of Type 2 Diabetes Mellitus. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0027
+Study Title: Dose-Response Evaluation of Amlodipine in Chronic Kidney Disease
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Amlodipine for the treatment of Chronic Kidney Disease by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIb dose-ranging study. 252 patients with Chronic Kidney Disease were randomized to receive Amlodipine at doses of 5mg, 25mg, or 200mg daily, or placebo, for 24 weeks.
+
+PHARMACOKINETIC PROFILE
+Amlodipine demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 1.0 hours
+- Half-life: 6.9 hours
+- Bioavailability: 95%
+- Steady-state achieved by Day 13
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+5mg: Modest improvement over placebo (effect size: 0.29, p=0.057)
+25mg: Significant improvement (effect size: 0.63, p=0.0034) — RECOMMENDED DOSE
+200mg: Similar efficacy to 25mg but with increased adverse events (effect size: 0.56, p=0.0046)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 5mg: 16% of patients
+- 25mg: 30% of patients
+- 200mg: 52% of patients
+- Placebo: 16% of patients
+
+RECOMMENDATION
+The optimal dose of Amlodipine for Chronic Kidney Disease is 25mg twice daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with renal impairment (eGFR < 30 mL/min).

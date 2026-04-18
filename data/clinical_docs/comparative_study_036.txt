@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0036
+Study Title: Head-to-Head Comparison of Dapagliflozin vs Tirzepatide for Obesity
+
+BACKGROUND
+Both Dapagliflozin and Tirzepatide are approved for the treatment of Obesity. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 2304 patients with Obesity were randomized 1:1 to Dapagliflozin or Tirzepatide for 48 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 49 years
+- Mean BMI: 31.9 kg/m²
+- Mean disease duration: 4.8 years
+- Prior treatment failure: 48%
+- Concomitant medications: 55% on at least one
+
+PRIMARY RESULTS
+Dapagliflozin: Effect size 0.75 (95% CI [0.65, 0.85])
+Tirzepatide: Effect size 0.43 (95% CI [0.33, 0.53])
+
+Between-group difference: 0.32 (p=<0.001)
+
+Dapagliflozin demonstrated superior efficacy compared to Tirzepatide on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Dapagliflozin: 10.7%
+- Tirzepatide: 3.9%
+
+Notable differences in adverse event profiles:
+- Dapagliflozin was associated with higher rates of joint pain (10.4% vs 4.9%)
+- Tirzepatide was associated with higher rates of joint pain (5.6% vs 2.1%)
+
+CONCLUSION
+In this head-to-head comparison, Dapagliflozin demonstrated statistically significant superiority over Tirzepatide for the treatment of Obesity. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

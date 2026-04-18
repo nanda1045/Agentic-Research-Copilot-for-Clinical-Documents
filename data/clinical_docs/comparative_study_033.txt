@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0033
+Study Title: Head-to-Head Comparison of Atorvastatin vs Dapagliflozin for Hyperlipidemia
+
+BACKGROUND
+Both Atorvastatin and Dapagliflozin are approved for the treatment of Hyperlipidemia. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 1687 patients with Hyperlipidemia were randomized 1:1 to Atorvastatin or Dapagliflozin for 24 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 52 years
+- Mean BMI: 32.5 kg/m²
+- Mean disease duration: 4.9 years
+- Prior treatment failure: 45%
+- Concomitant medications: 75% on at least one
+
+PRIMARY RESULTS
+Atorvastatin: Effect size 0.82 (95% CI [0.72, 0.92])
+Dapagliflozin: Effect size 0.32 (95% CI [0.22, 0.42])
+
+Between-group difference: 0.5 (p=<0.001)
+
+Atorvastatin demonstrated superior efficacy compared to Dapagliflozin on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Atorvastatin: 6.3%
+- Dapagliflozin: 10.1%
+
+Notable differences in adverse event profiles:
+- Atorvastatin was associated with higher rates of nausea (7.6% vs 1.5%)
+- Dapagliflozin was associated with higher rates of joint pain (11.7% vs 3.7%)
+
+CONCLUSION
+In this head-to-head comparison, Atorvastatin demonstrated statistically significant superiority over Dapagliflozin for the treatment of Hyperlipidemia. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

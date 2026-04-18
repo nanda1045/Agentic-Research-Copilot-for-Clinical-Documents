@@ -1,0 +1,28 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0021
+Drug: Dapagliflozin
+Reporting Period: Q2 2023
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Dapagliflozin collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 5132 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - dizziness: 348 reports (6.78%), 25 serious
+  - upper respiratory infection: 227 reports (4.42%), 7 serious
+  - diarrhea: 288 reports (5.61%), 14 serious
+  - insomnia: 341 reports (6.64%), 19 serious
+  - cough: 475 reports (9.26%), 34 serious
+  - muscle pain: 433 reports (8.44%), 18 serious
+  - constipation: 46 reports (0.9%), 0 serious
+
+SIGNAL DETECTION
+A new safety signal was identified for constipation which exceeded the proportional reporting ratio (PRR) threshold of 2.0 (observed PRR: 3.47).
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Dapagliflozin remains under review based on current data. Continued monitoring is recommended.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 25-79 years (median: 62)
+- Sex: 48% Female, 51% Male, 5% Not reported
+- Geographic distribution: 65% North America, 29% Europe, 6% Asia-Pacific

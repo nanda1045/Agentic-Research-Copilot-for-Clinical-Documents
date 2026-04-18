@@ -1,0 +1,25 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0019
+Drug: Amlodipine
+Reporting Period: Q1 2023
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Amlodipine collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 8542 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - nausea: 235 reports (2.75%), 21 serious
+  - constipation: 104 reports (1.22%), 1 serious
+  - rash: 139 reports (1.63%), 27 serious
+  - upper respiratory infection: 254 reports (2.97%), 7 serious
+
+SIGNAL DETECTION
+No new safety signals were identified during this reporting period. All adverse event rates remain within expected ranges based on clinical trial data.
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Amlodipine remains favorable based on current data. No regulatory action is recommended at this time.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 18-74 years (median: 54)
+- Sex: 58% Female, 44% Male, 1% Not reported
+- Geographic distribution: 57% North America, 18% Europe, 13% Asia-Pacific

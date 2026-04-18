@@ -1,0 +1,40 @@
+META-ANALYSIS REPORT
+Document ID: MAR-0042
+Title: Systematic Review and Meta-Analysis of Lisinopril for Hypertension
+
+OBJECTIVE
+To synthesize evidence from randomized controlled trials (RCTs) evaluating the efficacy and safety of Lisinopril in patients with Hypertension.
+
+SEARCH STRATEGY
+Electronic databases (PubMed, Embase, Cochrane Library) were searched from inception to September 2023. 963 records were screened, and 10 RCTs meeting inclusion criteria were included in the final analysis.
+
+INCLUDED STUDIES
+- Number of RCTs: 10
+- Total patients: 11109
+- Study duration range: 9 to 83 weeks
+- Phase II trials: 78%
+- Geographic coverage: 50 countries
+
+POOLED RESULTS
+Primary Outcome:
+- Pooled effect size (random-effects model): 0.58 (95% CI [0.25, 0.77])
+- p-value: <0.001
+- I² heterogeneity: 32% (substantial)
+- Number needed to treat (NNT): 17
+
+Safety Outcomes:
+- Risk of serious adverse events: OR 1.23 (95% CI [0.74, 1.59])
+- Treatment discontinuation: OR 1.48 (95% CI [0.87, 1.9])
+
+SUBGROUP ANALYSES
+- Age ≥65 years: Similar benefit (interaction p=0.33)
+- Severe disease at baseline: Greater benefit (effect size: 0.83)
+- Prior treatment failure: Maintained efficacy (effect size: 0.39)
+
+CONCLUSION
+This meta-analysis of 10 RCTs involving 11109 patients provides moderate evidence supporting the efficacy of Lisinopril for Hypertension. The safety profile is acceptable though ongoing surveillance is warranted.
+
+QUALITY ASSESSMENT
+- Risk of bias: Low (Cochrane RoB 2 tool)
+- GRADE certainty of evidence: Moderate
+- Publication bias: Not detected (Egger test p=0.36)

@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0006
+Study Title: Phase IV Randomized, Double-Blind, Placebo-Controlled Trial of Dapagliflozin for Obesity
+
+STUDY OVERVIEW
+This was a phase iv, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Dapagliflozin in patients with Obesity. The study was conducted across 26 clinical sites in 12 countries.
+
+PATIENT POPULATION
+A total of 1095 patients were enrolled and randomized 1:1 to Dapagliflozin or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Obesity. The mean age of participants was 51 years, with 41% female patients. 65% of patients were White, 14% Black or African American, and 12% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Dapagliflozin at a dose of 50mg once daily or matching placebo for 24 weeks. The primary endpoint was body weight reduction (13.3% from baseline). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Dapagliflozin significantly improved the primary endpoint compared to placebo (p=0.0185, effect size=0.51, 95% CI [0.37, 0.65]).
+
+The treatment group showed a mean change from baseline of -2.14 compared to -0.8 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Dapagliflozin group were:
+- elevated liver enzymes: 10.5% (vs 4.8% placebo)
+- fatigue: 5.9% (vs 4.0% placebo)
+- headache: 0.6% (vs 0.4% placebo)
+
+Serious adverse events occurred in 2.1% of the Dapagliflozin group vs 2.9% of the placebo group. 3 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Dapagliflozin demonstrated statistically significant efficacy in the treatment of Obesity. The safety profile of Dapagliflozin was consistent with prior studies, with no new safety signals identified. Based on these results, Dapagliflozin represents a promising therapeutic option for patients with Obesity.
+
+REFERENCES
+1. Johnson et al. (2020). Dapagliflozin in Obesity: A systematic review. The Lancet. 389:322-1014.
+2. Harris et al. (2024). Safety profile of Dapagliflozin: Pooled analysis. NEJM. 387:162-1191.

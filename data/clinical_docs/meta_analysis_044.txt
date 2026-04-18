@@ -1,0 +1,40 @@
+META-ANALYSIS REPORT
+Document ID: MAR-0044
+Title: Systematic Review and Meta-Analysis of Amlodipine for Chronic Kidney Disease
+
+OBJECTIVE
+To synthesize evidence from randomized controlled trials (RCTs) evaluating the efficacy and safety of Amlodipine in patients with Chronic Kidney Disease.
+
+SEARCH STRATEGY
+Electronic databases (PubMed, Embase, Cochrane Library) were searched from inception to June 2024. 1362 records were screened, and 13 RCTs meeting inclusion criteria were included in the final analysis.
+
+INCLUDED STUDIES
+- Number of RCTs: 13
+- Total patients: 29251
+- Study duration range: 12 to 53 weeks
+- Phase II trials: 64%
+- Geographic coverage: 25 countries
+
+POOLED RESULTS
+Primary Outcome:
+- Pooled effect size (random-effects model): 0.68 (95% CI [0.21, 0.77])
+- p-value: <0.001
+- I² heterogeneity: 38% (moderate)
+- Number needed to treat (NNT): 19
+
+Safety Outcomes:
+- Risk of serious adverse events: OR 1.1 (95% CI [0.68, 1.29])
+- Treatment discontinuation: OR 1.41 (95% CI [0.87, 1.58])
+
+SUBGROUP ANALYSES
+- Age ≥65 years: Similar benefit (interaction p=0.61)
+- Severe disease at baseline: Greater benefit (effect size: 0.8)
+- Prior treatment failure: Maintained efficacy (effect size: 0.51)
+
+CONCLUSION
+This meta-analysis of 13 RCTs involving 29251 patients provides moderate evidence supporting the efficacy of Amlodipine for Chronic Kidney Disease. The safety profile is acceptable though ongoing surveillance is warranted.
+
+QUALITY ASSESSMENT
+- Risk of bias: Low to moderate (Cochrane RoB 2 tool)
+- GRADE certainty of evidence: High
+- Publication bias: Possible (Egger test p=0.049)

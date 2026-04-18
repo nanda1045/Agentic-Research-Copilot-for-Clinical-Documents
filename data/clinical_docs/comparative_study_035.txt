@@ -1,0 +1,36 @@
+COMPARATIVE EFFECTIVENESS STUDY
+Document ID: CES-0035
+Study Title: Head-to-Head Comparison of Omeprazole vs Empagliflozin for Heart Failure
+
+BACKGROUND
+Both Omeprazole and Empagliflozin are approved for the treatment of Heart Failure. This study aimed to compare their relative efficacy and safety in a real-world clinical setting.
+
+STUDY DESIGN
+Multicenter, randomized, active-controlled, open-label trial. 485 patients with Heart Failure were randomized 1:1 to Omeprazole or Empagliflozin for 52 weeks.
+
+PATIENT BASELINE CHARACTERISTICS
+- Mean age: 51 years
+- Mean BMI: 26.0 kg/m²
+- Mean disease duration: 13.5 years
+- Prior treatment failure: 28%
+- Concomitant medications: 64% on at least one
+
+PRIMARY RESULTS
+Omeprazole: Effect size 0.88 (95% CI [0.78, 0.98])
+Empagliflozin: Effect size 0.28 (95% CI [0.18, 0.38])
+
+Between-group difference: 0.6 (p=<0.001)
+
+Omeprazole demonstrated superior efficacy compared to Empagliflozin on the primary endpoint.
+
+SAFETY COMPARISON
+Treatment discontinuation due to adverse events:
+- Omeprazole: 7.1%
+- Empagliflozin: 9.0%
+
+Notable differences in adverse event profiles:
+- Omeprazole was associated with higher rates of elevated liver enzymes (9.2% vs 4.0%)
+- Empagliflozin was associated with higher rates of gastrointestinal discomfort (13.9% vs 3.6%)
+
+CONCLUSION
+In this head-to-head comparison, Omeprazole demonstrated statistically significant superiority over Empagliflozin for the treatment of Heart Failure. The safety profiles of both drugs were generally acceptable, though they differed in specific adverse event patterns. Treatment selection should consider individual patient factors and tolerability preferences.

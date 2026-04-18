@@ -1,0 +1,32 @@
+DOSE-FINDING STUDY REPORT
+Document ID: DFS-0024
+Study Title: Dose-Response Evaluation of Metformin in Type 2 Diabetes Mellitus
+
+OBJECTIVE
+To determine the optimal therapeutic dose of Metformin for the treatment of Type 2 Diabetes Mellitus by evaluating efficacy and safety across multiple dose levels.
+
+METHODS
+This was a Phase IIb dose-ranging study. 714 patients with Type 2 Diabetes Mellitus were randomized to receive Metformin at doses of 10mg, 15mg, or 200mg daily, or placebo, for 8 weeks.
+
+PHARMACOKINETIC PROFILE
+Metformin demonstrated linear pharmacokinetics across the dose range studied:
+- Tmax: 2.7 hours
+- Half-life: 5.9 hours
+- Bioavailability: 93%
+- Steady-state achieved by Day 4
+- No significant food effect observed
+
+DOSE-RESPONSE RESULTS
+10mg: Modest improvement over placebo (effect size: 0.19, p=0.062)
+15mg: Significant improvement (effect size: 0.65, p=0.0055) — RECOMMENDED DOSE
+200mg: Similar efficacy to 15mg but with increased adverse events (effect size: 0.58, p=0.0056)
+
+SAFETY BY DOSE
+Treatment-emergent adverse events increased with dose:
+- 10mg: 19% of patients
+- 15mg: 33% of patients
+- 200mg: 50% of patients
+- Placebo: 17% of patients
+
+RECOMMENDATION
+The optimal dose of Metformin for Type 2 Diabetes Mellitus is 15mg once daily, providing the best balance of efficacy and tolerability. Dose adjustment may be needed for patients with hepatic impairment (Child-Pugh B or C).

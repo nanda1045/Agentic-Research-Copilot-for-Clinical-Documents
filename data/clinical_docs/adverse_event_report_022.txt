@@ -1,0 +1,28 @@
+ADVERSE EVENT SURVEILLANCE REPORT
+Document ID: AER-0022
+Drug: Semaglutide
+Reporting Period: Q2 2024
+
+SUMMARY
+This post-marketing surveillance report summarizes adverse event data for Semaglutide collected through the FDA Adverse Event Reporting System (FAERS) and manufacturer safety databases. A total of 1153 adverse event reports were analyzed during the reporting period.
+
+ADVERSE EVENT DISTRIBUTION
+The following adverse events were reported:
+  - muscle pain: 310 reports (26.89%), 60 serious
+  - diarrhea: 20 reports (1.73%), 2 serious
+  - nausea: 305 reports (26.45%), 2 serious
+  - headache: 400 reports (34.69%), 22 serious
+  - fatigue: 250 reports (21.68%), 33 serious
+  - elevated liver enzymes: 343 reports (29.75%), 56 serious
+  - constipation: 479 reports (41.54%), 35 serious
+
+SIGNAL DETECTION
+No new safety signals were identified during this reporting period. All adverse event rates remain within expected ranges based on clinical trial data.
+
+RISK-BENEFIT ASSESSMENT
+The overall benefit-risk profile of Semaglutide remains favorable based on current data. Continued monitoring is recommended.
+
+DEMOGRAPHICS OF REPORTERS
+- Age range: 25-81 years (median: 63)
+- Sex: 50% Female, 45% Male, 1% Not reported
+- Geographic distribution: 55% North America, 25% Europe, 11% Asia-Pacific

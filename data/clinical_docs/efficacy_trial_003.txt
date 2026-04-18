@@ -1,0 +1,32 @@
+CLINICAL TRIAL REPORT
+Document ID: CTR-0003
+Study Title: Phase III Randomized, Double-Blind, Placebo-Controlled Trial of Atorvastatin for Hyperlipidemia
+
+STUDY OVERVIEW
+This was a phase iii, multicenter, randomized, double-blind, placebo-controlled clinical trial evaluating the efficacy and safety of Atorvastatin in patients with Hyperlipidemia. The study was conducted across 26 clinical sites in 6 countries.
+
+PATIENT POPULATION
+A total of 2777 patients were enrolled and randomized 1:1 to Atorvastatin or placebo. Key inclusion criteria included age 18-75 years with confirmed diagnosis of Hyperlipidemia. The mean age of participants was 65 years, with 50% female patients. 63% of patients were White, 10% Black or African American, and 15% Hispanic or Latino.
+
+STUDY DESIGN
+Patients received Atorvastatin at a dose of 10mg twice daily or matching placebo for 24 weeks. The primary endpoint was LDL-C reduction (44.8% from baseline). Secondary endpoints included safety assessments, quality of life measures (SF-36), and time to first clinical event.
+
+RESULTS
+Primary Endpoint: Atorvastatin significantly reduced the primary endpoint compared to placebo (p=0.0355, effect size=0.62, 95% CI [0.51, 0.71]).
+
+The treatment group showed a mean change from baseline of -1.19 compared to -0.33 in the placebo group.
+
+Safety Profile:
+The most common adverse events in the Atorvastatin group were:
+- peripheral edema: 4.9% (vs 2.0% placebo)
+- insomnia: 10.0% (vs 5.2% placebo)
+- joint pain: 4.3% (vs 2.9% placebo)
+
+Serious adverse events occurred in 3.7% of the Atorvastatin group vs 0.9% of the placebo group. 2 deaths occurred during the study, none considered related to the study drug.
+
+CONCLUSION
+Atorvastatin demonstrated statistically significant efficacy in the treatment of Hyperlipidemia. The safety profile of Atorvastatin was consistent with prior studies, with no new safety signals identified. Based on these results, Atorvastatin represents a promising therapeutic option for patients with Hyperlipidemia.
+
+REFERENCES
+1. Williams et al. (2019). Atorvastatin in Hyperlipidemia: A systematic review. The Lancet. 389:545-1040.
+2. White et al. (2019). Safety profile of Atorvastatin: Pooled analysis. NEJM. 393:996-1184.
