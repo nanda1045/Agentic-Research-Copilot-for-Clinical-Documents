@@ -15,13 +15,19 @@ build/
 *.egg
 
 # FAISS index (regenerated from data)
-faiss_index/
+faiss_index/*
+!faiss_index/.gitkeep
+
+# Generated data (regenerated via CLI)
+data/clinical_docs/*
+!data/clinical_docs/.gitkeep
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
+.cursor/
 
 # OS
 .DS_Store
@@ -35,4 +41,11 @@ Thumbs.db
 *.pkl
 
 # Evaluation outputs
-eval_results/
+eval_results/*
+!eval_results/.gitkeep
+
+# Streamlit cache
+.streamlit/secrets.toml
+
+# Gemini / AI assistant
+.gemini/

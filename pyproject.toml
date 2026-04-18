@@ -1,12 +1,25 @@
 [project]
 name = "agentic-research-copilot"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "AI-powered RAG agent for clinical documents with multi-hop reasoning, answer verification, contradiction detection, and evidence-based abstention."
 readme = "README.md"
+license = { text = "MIT" }
 requires-python = ">=3.11"
+authors = [
+    { name = "Nanda Kishore Vuppili" },
+]
+keywords = ["rag", "clinical-research", "langgraph", "multi-hop", "ai-agent"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+
 dependencies = [
     "anthropic>=0.96.0",
-    "datasets>=4.8.4",
     "faiss-cpu>=1.13.2",
     "langchain>=1.2.15",
     "langchain-anthropic>=1.4.1",
@@ -15,8 +28,28 @@ dependencies = [
     "langgraph>=1.1.8",
     "pypdf>=6.10.2",
     "python-dotenv>=1.2.2",
-    "ragas>=0.4.3",
     "sentence-transformers>=5.4.1",
     "streamlit>=1.56.0",
     "tiktoken>=0.12.0",
 ]
+
+[project.optional-dependencies]
+eval = [
+    "ragas>=0.4.3",
+    "datasets>=4.8.4",
+]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.4.0",
+]
+
+[project.scripts]
+copilot = "main:main"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W"]
+ignore = ["E501"]
